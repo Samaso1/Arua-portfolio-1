@@ -1,0 +1,12 @@
+body{background-color: rgb(235, 248, 243);}
+nav {color: rgb(38, 66, 66);
+    background-color: rgb(28, 36, 33);
+padding: 20px;}
+h1{color: rgb(34, 34, 102); 
+    margin-bottom: 30px; 
+    margin-top: 30px;}
+
+h2{color: rgb(65, 40, 40) ;
+    border-style: groove; 
+    border-width:thick; 
+    padding: 5px;}
