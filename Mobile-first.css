@@ -1,5 +1,5 @@
 body{
-    background-color: brown;
+    background-color: whitesmoke;
 }
 
 /*Small device (landscape phones, 576px and up*/
@@ -22,7 +22,7 @@ body{
     }
     /*X Large devices (large desktops 1200px and up) */
     @media (min-width: 1200px) {
-        body{background-color: whitesmoke;
+        body{background-color: brown;
         }
     }
     /*XX-large devices (large desktops 1400px and up*/
